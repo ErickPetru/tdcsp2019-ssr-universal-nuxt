@@ -3,6 +3,8 @@
 
 > Demonstração de Server-Side Rendering e Universal Apps com Vue.js e Nuxt.js, criada como material de apoio para _talk_ nas trilhas [JavaScript](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-javascript) e [JavaScript II](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilha-javascript-2) do [TDC SP 2019](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/trilhas).
 
+Antes de prosseguir, se quiser, também pode baixar os [slides em PPSX](./static/talk.ppsx) utilizados durante a _talk_, para revisar as explicações teóricas.
+
 ### Instruções
 
 ``` bash
